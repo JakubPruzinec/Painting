@@ -1,5 +1,5 @@
 # Painting
-Small excerpt of my artwork.
+A small excerpt of my artwork.
 
 C. S. Lewis - marker  
 ![C. S. Lewis - marker](/imgs/1.jpeg)
